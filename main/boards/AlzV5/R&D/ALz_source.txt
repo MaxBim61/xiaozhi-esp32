@@ -1,0 +1,73 @@
+Setup VS code  and 
+ESP-IDF Extension for VS Code
+https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension
+
+VSCode Extension https://docs.espressif.com/   :
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/installation.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/startproject.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/connectdevice.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/configureproject.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/buildproject.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/flashdevice.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/monitoroutput.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/debugproject.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/additionalfeatures/application-size-analysis.html
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/build-system.html#component-cmakelists-files
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/additionalfeatures/esp-terminal.html
+Project Configuration Editor:
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/additionalfeatures/project-configuration.html
+
+Video files ESP-IDF VSCode Extension Tutorial:
+https://www.youtube.com/@EspressifDevZone/featured
+https://www.youtube.com/watch?v=3tTvPyACdBI&list=PLYLmlWn2TdRz0JpgzJuFdBxxCkQwvTwUG
+
+Work space on GitHub AlzV5 project:
+https://github.com/MaxBim61/xiaozhi-esp32
+https://drive.google.com/file/d/1VoN2KkCBnwW-ZtrzQdc_tBmtlsdG4gXy/view?usp=sharing
+
+Base  and examples  XiaoZhi-XiaGe projects:
+https://github.com/78/xiaozhi-esp32
+https://docs.freenove.com/projects/fnk0102/en/latest/fnk0102/codes/xiaozhi/xiaozhi_EN/XiaoZhi_AI_Code.html#xiaozhi-ai-code
+https://circuitdigest.com/videos/esp32-ai-voice-assistant-with-mcp-integration
+https://www.waveshare.com/wiki/Xiaozhi_AI_Application_Tutorial
+https://www.waveshare.com/wiki/ESP-IDF_Environment_Setup
+https://www.waveshare.com/wiki/Xiaozhi_AI_Application_Tutorial#Compile_and_Flash_in_ESP-IDF_Environment
+https://randomnerdtutorials.com/programming-esp32-esp-idf-vs-code/
+
+
+https://www.youtube.com/watch?v=3tTvPyACdBI&list=PLYLmlWn2TdRz0JpgzJuFdBxxCkQwvTwUG
+
+https://docs.espressif.com/projects/esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/debugproject.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/configureproject.html
+
+Compile and Flash in ESP-IDF Environment
+https://www.waveshare.com/wiki/Xiaozhi_AI_Application_Tutorial#Compile_and_Flash_in_ESP-IDF_Environment
+
+QMA6100P Driver Component
+https://components.espressif.com/components/espressif/qma6100p/versions/2.0.1/readme
+
+ESP32-S3-LCD-1.28-BOX User Guide
+https://spotpear.com/wiki/ESP32-S3-N16R8-AI-DeepSeek-XiaoZhi-XiaGe-Qwen-DouBao-1.28-inch-Round-LCD-BOX-TouchScreen.html
+https://xiaozhi.me/console/agents
+https://xiaozhi.me/console/agents/695562/config
+
+
+Compile and Flash in ESP-IDF Environment
+https://www.waveshare.com/wiki/Xiaozhi_AI_Application_Tutorial#Compile_and_Flash_in_ESP-IDF_Environment
+https://xiaozhi.me/console/agents
+
+
+AI work
+https://aistudio.google.com/apps
+https://labs.google/projectgenie
+https://gemini.google.com/app/09e3ba312ead9a3a#b7d3b23f4ea1a997
+https://qwen.ai/home
+https://x.com/i/grok
+https://designer.microsoft.com/my-projects
+
+
+Examples AI devices:
+https://drive.google.com/drive/folders/1ThZ1l2x2pvWZerStXbG4OvNcnTGaS8Xp
+https://www.looki.ai/looki-l1
+https://www.forbes.com/sites/forbes-personal-shopper/article/best-ai-wearables/
