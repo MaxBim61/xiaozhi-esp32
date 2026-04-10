@@ -1,5 +1,5 @@
 
-// xiaozhi-esp32/boards/alzv5_esp32/config.h
+// xiaozhi-esp32/boards/AlzV5_ESP32S3/config.h
 #ifndef __BOARD_ALZV5_CONFIG_H_
 #define __BOARD_ALZV5_CONFIG_H_
 

@@ -1,10 +1,10 @@
 {
-  "board": "alzv5",
+  "board": "AlzV5_ESP32S3",
   "cpu": "esp32s3",
   "framework": "espidf",
   "flash_mode": "qio",
   "flash_size": "16MB",
   "upload_speed": 115200,
   "monitor_speed": 115200,
-  "extra_flags": "-DBOARD_ALZV5"
+  "extra_flags": "-DBOARD_AlzV5_ESP32S3"
 }
